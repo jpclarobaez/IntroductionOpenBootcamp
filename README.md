@@ -6,7 +6,7 @@ Create a function with three numbers as input. The function shall add them.
 Call the function in the main and enter values for the function. 
 
 Second Part:
-- Crea a class 'car'
+- Create a class 'car'
 - Within the class 'car', create a numeric variable to store the number of doors
 - A function for adding the number of doors tha the car has. 
 - Create a object miCoche in the main and add it one door.
