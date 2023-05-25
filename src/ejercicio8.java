@@ -13,7 +13,7 @@ public class ejercicio8 {
 };
 
 
-class Persona {
+class Persona8 {
     private int edad;
     private String nombre;
     private int telefono;
